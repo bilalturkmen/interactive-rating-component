@@ -1,9 +1,9 @@
 <h1>Interactive rating component</h1>
 <div>
   <h3>
-    <a href="https://zippy-pixie-d52f7b.netlify.app/"> Live View </a>
+    <a href="https://playful-blini-96302b.netlify.app/"> Live View </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/results-summary-component-with-react-js-oY58nHZGtW"> Solution Page </a>
+    <a href="https://www.frontendmentor.io/solutions/interactive-rating-comp-reacttypescript-tpior-NEqq"> Solution Page </a>
   </h3>
 </div>
 <div>
