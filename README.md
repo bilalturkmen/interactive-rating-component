@@ -23,6 +23,6 @@
 
 - React+TypeScript and Vite builder
 - Semantic HTML5 markup
-- Flexbox & Css Grid
+- Css Flexbox
 - Mobile-first workflow
 - CSS custom properties
