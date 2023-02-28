@@ -12,7 +12,7 @@
 
 ## 👍 My Challenges:
 
-- i tried to TypeScript for this solution. it was pretty challenging for me 👊
+- i tried TypeScript for this solution. it was pretty challenging for me 👊
 - implement warning message when no voting.
 - And added little effects presenting good page experience.
 - See hover states for all interactive elements on the page.
