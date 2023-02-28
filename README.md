@@ -12,16 +12,16 @@
 
 ## 👍 My Challenges:
 
-- i used typescript for development. it was pretty challenging.
-- implement warning message when no voting. and add some nice effects.
-- And also trying to presenting a good page experience.
+- i tried to TypeScript for this solution. it was pretty challenging for me 👊
+- implement warning message when no voting.
+- And added little effects presenting good page experience.
 - See hover states for all interactive elements on the page.
 
 ![](./public/screenshot.jpg)
 
 ## 🎉 Build With:
 
-- React+TypeScript and Vite builder
+- React + TypeScript and Vite builder
 - Semantic HTML5 markup
 - Css Flexbox
 - Mobile-first workflow
