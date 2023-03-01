@@ -239,23 +239,8 @@ input[type="radio"]:checked + span {
 
 /* Animations */
 
-.FadeIn {
-  animation: fadeIn 0.5s ease 0s 1 normal forwards;
-}
 .swirlIn {
   animation: swirlIn 0.5s ease 0s 1 normal forwards;
-}
-
-@keyframes fadeIn {
-  0% {
-    opacity: 0;
-    transform: scale(0.8);
-  }
-
-  100% {
-    opacity: 1;
-    transform: scale(1);
-  }
 }
 
 @keyframes swirlIn {
@@ -269,6 +254,7 @@ input[type="radio"]:checked + span {
     transform: rotate(0) scale(1);
   }
 }
+
 /* Body Background */
 
 body {
