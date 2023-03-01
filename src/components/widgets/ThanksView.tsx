@@ -8,7 +8,7 @@ interface ThanksViewProps {
 const ThanksView = ({ selectedUsersRating, rateAgain }: ThanksViewProps) => {
   return (
     <div className="panel thanks FadeIn">
-      <img src={thanksImg} alt="" />
+      <img src={thanksImg} alt="" width={162} height={108} />
 
       <p className="selected">
         You selected <span>{selectedUsersRating}</span> out of 5
