@@ -16,7 +16,7 @@ const RatingView = ({
 
   return (
     <div className="panel rating">
-      <img src={starIcon} alt="" className="panel--icon swirlIn" />
+      <img src={starIcon} alt="" className="panel--icon" />
       <h2> How did we do?</h2>
       <p>
         Please let us know how we did with your support request. All feedback is

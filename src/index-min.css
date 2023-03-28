@@ -46,7 +46,6 @@ button:disabled {
   border-radius: var(--br);
   transition: 0.3s ease;
   cursor: pointer;
-  outline: none;
 }
 
 button:hover {
@@ -96,6 +95,7 @@ body {
   width: 3rem;
   height: 3rem;
   padding: 1rem;
+  animation: ImageFlip 0.5s ease;
 }
 
 .panel h2 {
@@ -126,6 +126,13 @@ body {
   line-height: 3rem;
   font-weight: 600;
   letter-spacing: 0.21rem;
+}
+
+.panel__btn:focus-visible {
+  outline-width: 0.125rem;
+  outline-style: dashed;
+  outline-color: var(--orange);
+  outline-offset: 0.5rem;
 }
 
 /* Rating Buttons */
@@ -172,6 +179,7 @@ input[type="radio"]:checked + span {
 .thanks img {
   margin-top: 0.8rem;
   margin-left: -0.5rem;
+  animation: ImageFlip 0.5s ease;
 }
 
 .thanks .selected {
@@ -239,19 +247,17 @@ input[type="radio"]:checked + span {
 
 /* Animations */
 
-.swirlIn {
-  animation: swirlIn 0.5s ease 0s 1 normal forwards;
-}
-
-@keyframes swirlIn {
+@keyframes ImageFlip {
   0% {
+    -webkit-transform: rotateY(90deg);
+    transform: rotateY(90deg);
     opacity: 0;
-    transform: rotate(-540deg) scale(0);
   }
 
   100% {
+    -webkit-transform: rotateY(0deg);
+    transform: rotateY(0deg);
     opacity: 1;
-    transform: rotate(0) scale(1);
   }
 }
 
