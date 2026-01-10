@@ -14,15 +14,15 @@
 
 - i tried TypeScript for this solution. it was pretty challenging for me 👊
 - implement warning message when no voting.
-- And added little effects presenting good page experience.
-- See hover states for all interactive elements on the page.
+- Small effects have been added to improve the page experience.
+- Some animations have been added to the interactive elements.
 
 ![](./public/screenshot.jpg)
 
 ## 🎉 Build With:
 
-- React + TypeScript and Vite builder
-- Semantic HTML5 markup
-- Css Flexbox
+- React JS + TypeScript
+- Semantic HTML markup
+- Flexbox CSS
 - Mobile-first workflow
 - CSS custom properties
