@@ -13,8 +13,8 @@
 ## 👍 My Challenges:
 
 - i tried TypeScript for this solution. it was pretty challenging for me 👊
-- implement warning message when no voting.
-- Small effects have been added to improve the page experience.
+- A warning message was implemented, when no vote was selected
+- Several effects and design improvements have been added to enhance the page experience.
 - Some animations have been added to the interactive elements.
 
 ![](./public/screenshot.jpg)
