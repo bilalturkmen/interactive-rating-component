@@ -1,4 +1,4 @@
-<h1> ⭐ Interactive rating component</h1>
+<h1>Interactive rating component</h1>
 <div>
   <h3>
     <a href="https://playful-blini-96302b.netlify.app/"> Live View </a>
@@ -7,7 +7,7 @@
   </h3>
 </div>
 <div>
-  A challenge on Frontend Mentor.
+  A challenge from Frontend Mentor.
 </div>
 
 ## 👍 My Challenges:
