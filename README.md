@@ -1,4 +1,5 @@
-<h1>Interactive rating component</h1>
+# Interactive rating component
+
 <div>
   <h3>
     <a href="https://playful-blini-96302b.netlify.app/"> Live View </a>
